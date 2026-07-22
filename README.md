@@ -15,7 +15,9 @@ Two versions are built from the same underlying geometry:
 | **Static** | PNG (matplotlib) | Print, reports, portfolio images |
 | **Interactive** | Standalone HTML/SVG | Hover tooltips on every game, bar, and star |
 
-![Career Rings preview](career_rings.png)
+[![Career Rings preview](career_rings.png)](https://azazzello451.github.io/Magic-Johnson-Career-Rings/magic_johnson_career.html)
+
+🔗 **[View the interactive chart](https://azazzello451.github.io/Magic-Johnson-Career-Rings/magic_johnson_career.html)** — hover any game, bar, or star for details
 
 ---
 
