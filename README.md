@@ -15,9 +15,7 @@ Two versions are built from the same underlying geometry:
 | **Static** | PNG (matplotlib) | Print, reports, portfolio images |
 | **Interactive** | Standalone HTML/SVG | Hover tooltips on every game, bar, and star |
 
-![Career Rings preview](preview.png)
-
-*(add a screenshot of the rendered chart here before publishing)*
+![Career Rings preview](career_rings.png)
 
 ---
 
